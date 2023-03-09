@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://digitalfortress.dev/">Who we are</a>
+  <a href="https://digitalfortress.dev/about-us">Who we are</a>
   ·
   <a href="https://digitalfortress.dev/all-project">What we do</a>
   ·
